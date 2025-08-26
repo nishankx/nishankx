@@ -5,4 +5,4 @@ My name is Nishan, and I'm a Computer science engineering undergrad interested i
 - 🌱 I’m currently learning Python, C/C++, JavaScript
 - 👯 I’m looking to collaborate on software development projects
 - 🤔 I’m looking for help with machine learning & deep learning
-- 📫 How to reach me on [email](nishankashyap@outlook.com) or on [Twitter](https://x.com/nishankx)
+- 📫 How to reach me on email or on [Twitter](https://x.com/nishankx)
