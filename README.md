@@ -24,7 +24,8 @@
 ---
 
 ## 🚀 Featured Projects  
-- [**CRUX**](https://github.com/nishankx/crux-video-summarizer) —  a program to summarize long videos into concise summaries. (Podcast/Video transcriber + summarizer with Whisper + Streamlit)    
+- [**CRUX**](https://github.com/nishankx/crux-video-summarizer.git) -  a program to summarize long videos into concise summaries. (Podcast/Video transcriber + summarizer with Whisper + Streamlit)
+- [**dotCOM**](https://github.com/nishankx/dotcom.git) - a social platform for people to share tweets and connect with friends   
 ---
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishankx&theme=dark" alt="GitHub Streak" width=100%/>
