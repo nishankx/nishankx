@@ -14,7 +14,7 @@
 ## 🛠️ Languages & Tools  
 
 <p align="center">
- <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,tailwind,bootstrap,mysql,git,github,django,springboot,flask,linux,vscode,figma&perline=9&theme=light" />
+ <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,tailwind,bootstrap,mysql,git,github,django,spring,flask,linux,vscode,figma&perline=9" />
 </p>
 
 ---
