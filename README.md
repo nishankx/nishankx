@@ -15,6 +15,8 @@
 
 <p align="center">
  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,tailwind,bootstrap,mysql,git,github,django,spring,flask,linux,vscode,figma&perline=9" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,python,fastapi,pytorch,postgres,docker,github,vercel,railway&perline=12" />
+
 </p>
 
 ---
