@@ -14,8 +14,7 @@
 ## 🛠️ Languages & Tools  
 
 <p align="center">
- <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,tailwind,bootstrap,mysql,git,github,django,spring,flask,linux,vscode,figma&perline=9" />
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,python,fastapi,pytorch,postgres,docker,github,vercel,railway&perline=12" />
+ <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,nextjs,react,ts,fastapi,pytorch,postgres,docker,vercel,html,css,tailwind,bootstrap,mysql,git,github,django,spring,flask,linux,vscode,figma&perline=9" />
 
 </p>
 
