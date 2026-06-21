@@ -1,13 +1,10 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=160&text=Nishan%20Kashyap&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=ML Engineer, Full Stack Developer&descSize=16&descAlignY=80&descColor=aaaaaa" width="100%"/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=footer"/>
+![Header](./github-header-banner.png)
 
 <br/>
 
@@ -114,8 +111,6 @@ When I'm not coding, you'll find me working on my startup or cooking myself some
 </div>
 
 <br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
 
 <div align="center">
 <sub>⭐ If you find my work useful, consider starring a repo — it genuinely helps!</sub>
