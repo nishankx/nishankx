@@ -32,7 +32,6 @@ When I'm not coding, you'll find me working on my startup or cooking myself some
 
 <div align="center">
 
-### 🛠️ Tech Stack
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,javascript&theme=dark&perline=10" height="52"/>
 <br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,fastapi,django,mysql&theme=dark&perline=10" height="52"/>
@@ -47,7 +46,6 @@ When I'm not coding, you'll find me working on my startup or cooking myself some
 
 <div align="center">
 
-### 📊 GitHub Analytics
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nishankx&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=ffffff&area=true&area_color=6AD3F7&hide_border=true" />
 
@@ -73,7 +71,6 @@ When I'm not coding, you'll find me working on my startup or cooking myself some
 
 <div align="center">
 
-### 🚀 Projects
 
 <table width="100%" cellspacing="10" cellpadding="0" border="0">
   <tr>
@@ -103,7 +100,7 @@ When I'm not coding, you'll find me working on my startup or cooking myself some
 
 <div align="center">
 
-### 💬 Quote
+
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
