@@ -34,9 +34,9 @@ When I'm not coding, you'll find me working on my startup or cooking myself some
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,javascript&theme=dark&perline=10" height="52"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,fastapi,django,mysql&theme=dark&perline=10" height="52"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,fastapi,django,mysql&theme=dark&perline=10" height="52"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=figma,notion,firebase,supabase,vercel,linux,git,github,githubactions&theme=dark&perline=10" height="52"/>
+<img src="https://skillicons.dev/icons?i=figma,notion,firebase,supabase,vercel,linux,git,github&theme=dark&perline=10" height="52"/>
 
 </div>
 
