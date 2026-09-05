@@ -1,0 +1,10 @@
+{
+  "repo_url": "https://github.com/nishankx/nishankx",
+  "repo_name": "nishankx/nishankx",
+  "issue_number": 1,
+  "title": "[BUG] Pinned repositories layout breaks on mobile screens due to rigid HTML table",
+  "body": "The pinned repositories section uses an HTML <table> with hardcoded width=\"50%\" columns to align the GitHub stats cards side-by-side. While this renders correctly on wide desktop monitors, it breaks responsive design on mobile devices. Because table columns do not wrap naturally, the SVG cards either shrink to an illegible size or overflow the screen horizontally on narrow viewports.",
+  "labels": [],
+  "comments": [],
+  "author": "nishankx"
+}

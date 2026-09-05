@@ -71,20 +71,15 @@ When I'm not coding, you'll find me working on my startup or cooking myself some
 <div align="center">
 
 
-<table width="100%" cellspacing="10" cellpadding="0" border="0">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/HACK-A-DAY-Online-Participants/OASIS">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=HACK-A-DAY-Online-Participants&repo=OASIS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=ffffff&description_lines_count=2"/>
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/nishankx/eSMg-to-Text">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=nishankx&repo=eSMg-to-Text&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=ffffff&description_lines_count=2"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/HACK-A-DAY-Online-Participants/OASIS">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=HACK-A-DAY-Online-Participants&repo=OASIS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=ffffff&description_lines_count=2"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/nishankx/eSMg-to-Text">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=nishankx&repo=eSMg-to-Text&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=ffffff&description_lines_count=2"/>
+  </a>
+</div>
 
 
 <a href="https://github.com/nishankx?tab=repositories&sort=stargazers">
