@@ -61,7 +61,7 @@ Currently exploring distributed systems, Go, backend engineering, AI and infrast
 
 </div>
 
-## Projects
+## Flagship Projects
 
 <div align="center">
 
@@ -148,34 +148,7 @@ Working on desktop infrastructure, local services and native Windows installatio
 <br/><br/><br/>
 
 </td>
-<td width="50%" valign="top" align="left">
 
-<h3>06 &nbsp; TEDx</h3>
-
-TEDx involvement and activities.
-<a href="https://github.com/cachette-cloud/tedx_rvitm">↗ View Repository</a>
-
-<br/><br/>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top" align="left">
-
-<h3>07 &nbsp; Portfolio</h3>
-
-My personal website showcasing my projects, experiments, interests and engineering journey.
-
-`NEXT.JS` &nbsp; `REACT` &nbsp; `TAILWIND CSS`
-
-<br/>
-
-<a href="https://nishankashyap.vercel.app">↗ Visit Website</a>
-
-<br/><br/><br/>
-
-</td>
 <td width="50%"></td>
 </tr>
 </table>
@@ -188,20 +161,12 @@ My personal website showcasing my projects, experiments, interests and engineeri
 
 ## Experience
 
-**Independent Developer & Builder**  
-2026 — Present
-
-Building independent projects across distributed systems, backend engineering, AI and developer infrastructure.
-
-**Open Source & Engineering**  
-Ongoing
-
-Exploring open-source development, systems programming and collaborative software engineering.
-
 **Computer Science Undergraduate**  
 Bengaluru, India
 
 Pursuing Computer Science while developing practical engineering skills through independent projects.
+Building independent projects across distributed systems, backend engineering, AI and developer infrastructure.
+Exploring open-source development, systems programming and collaborative software engineering.
 
 <!-- ================================================= -->
 <!-- STATS -->
@@ -210,19 +175,17 @@ Pursuing Computer Science while developing practical engineering skills through 
 ## Stats
 
 <div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nishankx&bg_color=130C20&color=C4A1FF&line=D946EF&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true" />
-
-<br/>
+<div align="center">
+  <a href="https://gitarena.dev/u/nishankx">
+    <img
+      src="https://gitarena.dev/api/badge/nishankx/graph?theme=dark&color=purple"
+      width="85%"
+      alt="Contributions"
+    />
+  </a>
+</div>
+<br/><br/>
 
 <img width="85%" src="https://streak-stats.demolab.com?user=nishankx&theme=transparent&hide_border=true&background=130C20&stroke=130C20&ring=D946EF&fire=F43F5E&currStreakNum=FFFFFF&sideNums=C4A1FF&currStreakLabel=D946EF&sideLabels=C4A1FF&dates=9B8BAE" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=nishankx&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" />
-
-<br/><br/>
-
-<sub>Build. Experiment. Understand. Repeat.</sub>
 
 </div>
