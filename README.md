@@ -92,7 +92,7 @@ Exploring peer-to-peer file transfer, distributed networking and the engineering
 
 <br/>
 
-<a href="https://github.com/nishankx?tab=repositories">↗ View Repository</a>
+<a href="https://github.com/nishankx/torrentis">↗ View Repository</a>
 
 <br/><br/><br/>
 
@@ -110,7 +110,7 @@ Building an in-memory data store in Go while exploring Redis internals, data str
 
 <br/>
 
-<a href="https://github.com/nishankx?tab=repositories">↗ View Repository</a>
+<a href="https://github.com/nishankx/goredis">↗ View Repository</a>
 
 <br/><br/><br/>
 
@@ -125,7 +125,7 @@ Collaborative engineering project focused on research, literature review, ideati
 
 <br/>
 
-<a href="https://github.com/HACK-A-DAY-Online-Participants/OASIS">↗ View Repository</a>
+<a href="https://github.com/nishankx/oasis">↗ View Repository</a>
 
 <br/><br/><br/>
 
@@ -143,7 +143,7 @@ Working on desktop infrastructure, local services and native Windows installatio
 
 <br/>
 
-<a href="https://github.com/cachette-cloud/cachette_client/tree/native-installer">↗ View Repository</a>
+<a href="https://github.com/cachette-cloud/cachette_client">↗ View Repository</a>
 
 <br/><br/><br/>
 
@@ -153,6 +153,7 @@ Working on desktop infrastructure, local services and native Windows installatio
 <h3>06 &nbsp; TEDx</h3>
 
 TEDx involvement and activities.
+<a href="https://github.com/cachette-cloud/tedx_rvitm">↗ View Repository</a>
 
 <br/><br/>
 
@@ -170,7 +171,7 @@ My personal website showcasing my projects, experiments, interests and engineeri
 
 <br/>
 
-<a href="https://nishankashyap.com">↗ Visit Website</a>
+<a href="https://nishankashyap.vercel.app">↗ Visit Website</a>
 
 <br/><br/><br/>
 
