@@ -23,6 +23,7 @@ I'm Nishan, a Computer Science undergraduate and developer from Bengaluru, India
 I enjoy building software, exploring systems engineering, understanding complex technologies and turning unconventional ideas into working products.
 
 Currently exploring distributed systems, Go, backend engineering, AI and infrastructure.
+[Portfolio](https://nishankashyap.vercel.app/)
 
 <br/>
 
@@ -35,112 +36,11 @@ Currently exploring distributed systems, Go, backend engineering, AI and infrast
 
 <td width="32%" align="center" valign="middle">
 
-<img src="./profile.png" width="220" height="220" alt="Nishan's Profile Picture"/>
+<img src="./avatar.png" width="220" height="220" alt="Nishan's Profile Picture"/>
 
 </td>
 </tr>
 </table>
-
-<!-- ================================================= -->
-<!-- PROJECTS -->
-<!-- ================================================= -->
-
-## Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### KafkaZero
-
-Building a Kafka-like distributed messaging system from scratch in Go.
-
-`Go` · `Distributed Systems` · `ZooKeeper`
-
-[Repository ↗](https://github.com/nishankx/kafka-zero)
-
-</td>
-
-<td width="50%" valign="top">
-
-### Torrentis
-
-Exploring peer-to-peer file transfer and distributed networking.
-
-`Networking` · `P2P`
-
-[Repository ↗](https://github.com/nishankx?tab=repositories)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### GoRedis
-
-Building an in-memory data store while exploring Redis internals.
-
-`Go` · `Databases` · `Networking`
-
-[Repository ↗](https://github.com/nishankx?tab=repositories)
-
-</td>
-
-<td width="50%" valign="top">
-
-### OASIS
-
-Collaborative engineering project focused on research, ideation and developing a new solution.
-
-`Research` · `Engineering`
-
-[Repository ↗](https://github.com/HACK-A-DAY-Online-Participants/OASIS)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Cachette
-
-Desktop infrastructure, local services and native Windows installation.
-
-`Electron` · `Python` · `Infrastructure`
-
-[Repository ↗](https://github.com/cachette-cloud/cachette_client/tree/native-installer)
-
-</td>
-
-<td width="50%" valign="top">
-
-### TEDx
-
-TEDx-related involvement and activities.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Portfolio
-
-My personal website showcasing my work, projects and engineering journey.
-
-`Next.js` · `React` · `Tailwind CSS`
-
-[Website ↗](https://nishankashyap.com)
-
-</td>
-
-<td width="50%" valign="top">
-
-</td>
-</tr>
-</table>
-
 <!-- ================================================= -->
 <!-- TECH STACK -->
 <!-- ================================================= -->
@@ -158,6 +58,126 @@ My personal website showcasing my work, projects and engineering journey.
 <br/>
 
 <img src="https://skillicons.dev/icons?i=figma,postman,firebase,supabase,vercel,linux,git,github&theme=dark&perline=10" height="52"/>
+
+</div>
+
+## Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top" align="left">
+
+<h3>01 &nbsp; KafkaZero</h3>
+
+Building a Kafka-like distributed messaging system from scratch in Go, exploring broker architecture, protocols and distributed coordination.
+
+`GO` &nbsp; `DISTRIBUTED SYSTEMS` &nbsp; `ZOOKEEPER`
+
+<br/>
+
+<a href="https://github.com/nishankx/kafka-zero">↗ View Repository</a>
+
+<br/><br/><br/>
+
+</td>
+<td width="50%" valign="top" align="left">
+
+<h3>02 &nbsp; Torrentis</h3>
+
+Exploring peer-to-peer file transfer, distributed networking and the engineering behind decentralized communication.
+
+`NETWORKING` &nbsp; `P2P`
+
+<br/>
+
+<a href="https://github.com/nishankx?tab=repositories">↗ View Repository</a>
+
+<br/><br/><br/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top" align="left">
+
+<h3>03 &nbsp; GoRedis</h3>
+
+Building an in-memory data store in Go while exploring Redis internals, data structures and network protocols.
+
+`GO` &nbsp; `DATABASES` &nbsp; `NETWORKING`
+
+<br/>
+
+<a href="https://github.com/nishankx?tab=repositories">↗ View Repository</a>
+
+<br/><br/><br/>
+
+</td>
+<td width="50%" valign="top" align="left">
+
+<h3>04 &nbsp; OASIS</h3>
+
+Collaborative engineering project focused on research, literature review, ideation and developing a novel solution.
+
+`RESEARCH` &nbsp; `ENGINEERING`
+
+<br/>
+
+<a href="https://github.com/HACK-A-DAY-Online-Participants/OASIS">↗ View Repository</a>
+
+<br/><br/><br/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top" align="left">
+
+<h3>05 &nbsp; Cachette</h3>
+
+Working on desktop infrastructure, local services and native Windows installation workflows.
+
+`ELECTRON` &nbsp; `PYTHON` &nbsp; `INFRASTRUCTURE`
+
+<br/>
+
+<a href="https://github.com/cachette-cloud/cachette_client/tree/native-installer">↗ View Repository</a>
+
+<br/><br/><br/>
+
+</td>
+<td width="50%" valign="top" align="left">
+
+<h3>06 &nbsp; TEDx</h3>
+
+TEDx involvement and activities.
+
+<br/><br/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top" align="left">
+
+<h3>07 &nbsp; Portfolio</h3>
+
+My personal website showcasing my projects, experiments, interests and engineering journey.
+
+`NEXT.JS` &nbsp; `REACT` &nbsp; `TAILWIND CSS`
+
+<br/>
+
+<a href="https://nishankashyap.com">↗ Visit Website</a>
+
+<br/><br/><br/>
+
+</td>
+<td width="50%"></td>
+</tr>
+</table>
 
 </div>
 
